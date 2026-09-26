@@ -1,0 +1,6 @@
+{
+  "name": "WonderNest School",
+  "description": "Where Little Minds Grow Big Dreams. An interactive experiential showcase of WonderNest School with 3D campus, cinematic day-in-life journey, classrooms, teacher stories, and virtual tour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
